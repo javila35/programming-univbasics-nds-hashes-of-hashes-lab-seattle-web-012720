@@ -43,5 +43,6 @@ def naming_system
   # HoH all the way to Species!
 hash = PORTION_1
 
+hash[PORTION_1][PORTION_2]
 p hash 
 end
