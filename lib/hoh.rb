@@ -63,7 +63,5 @@ hash = {
        }
      }
    }
- }
-}
 p hash 
 end
