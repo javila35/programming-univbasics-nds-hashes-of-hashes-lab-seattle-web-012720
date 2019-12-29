@@ -46,5 +46,5 @@ hash = {
   2 => PORTION_2
 }
 
-p hash 
+prints hash 
 end
